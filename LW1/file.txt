@@ -1,0 +1,9 @@
+{BELARUS, {Apple, 90}, {IB Pashkevich, 200.0, 50}, TRUCK, 10.0}
+{BELARUS, {Pineapple, 60}, {IB Pashkevich, 200.0, 50}, TRUCK, 12.0}
+{RUSSIA, {Apple, 90}, {IB Minyukovich, 200.0, 10}, TRUCK, 10.0}
+{RUSSIA, {Pineapple, 60}, {IB Minyukovich, 200.0, 10}, TRUCK, 12.0}
+{RUSSIA, {Melon, 50}, {IB Minyukovich, 200.0, 10}, TRUCK, 8.0}
+{RUSSIA, {Cherry, 20}, {IB Minyukovich, 200.0, 10}, PLANE, 5.0}
+{UKRAINE, {Apple, 90}, {IB Titok, 500.0, 25}, TRUCK, 6.0}
+{UKRAINE, {Pineapple, 60}, {IB Titok, 500.0, 25}, TRUCK, 10.0}
+{UKRAINE, {Melon, 50}, {IB Titok, 500.0, 25}, SHIP, 11.0}
